@@ -10,14 +10,14 @@ Digital Identity: Individuals control their personal data through verifiable cre
 
 3. Block Anatomy
 
-+----------------------------------+
-| Index: 1                         |
-| Timestamp: 2025-06-10T12:00:00Z  |
-| Data: "Transaction A->B: 5 BTC"  |
-| Previous Hash: 0xa1b2c3...       |
-| Nonce: 1024                      |
-| Merkle Root: 0xd4e5f6...         |
-+----------------------------------+
+
+ Index: 1                         
+ Timestamp: 2025-06-10T12:00:00Z  
+ Data: "Transaction A->B: 5 BTC"  
+ Previous Hash: 0xa1b2c3...       
+ Nonce: 1024                      
+ Merkle Root: 0xd4e5f6...         
+
 
 4. Merkle Root
 
